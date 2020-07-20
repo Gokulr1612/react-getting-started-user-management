@@ -1,0 +1,53 @@
+
+.routerclass{
+  background-color: cyan;
+  height: 40px;  
+}
+
+.routerclass.about{
+  height: 20px;
+
+}
+
+.g-btn {
+  background-color: white;
+  color: black;
+  padding: 5px 5px;
+  text-align: center;
+  display: inline-block;
+  font-size: 15px;
+  height: 30px;
+}
+
+.g-cell{
+  height: 15px;
+
+}
+
+#userinfo td, #userinfo th {
+  border: 1px solid #ddd;
+  padding: 5px;
+}
+#userinfo tr:nth-child(even){background-color: #f2f2f2;}
+
+#userinfo tr:hover {background-color: #ddd;}
+
+#userinfo th {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: left;
+  background-color: whites;
+  color: black;
+}
+
+button {
+  height: 30px;
+  background-color: darkgrey;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+a {
+  margin: 5px;
+  text-align: right;
+}
